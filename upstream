@@ -1,1 +1,1 @@
-Explain what the "upstream" remote is usually used for, in your own words
+The upstream remote is used to store a public version of a project that other can edit or collaborate with you on, without affecting your local repo. Unless you want that
