@@ -1,1 +1,3 @@
-Explain what a branch is, in your own words
+When you create a repo and 'git init', it creates a master branch, a timeline, wwhich tracks all snapshots of the project you make. 
+
+When you create another branch it starts another seperate timeline from wthe point that you created it, so that you can work in multiple realities ;)
